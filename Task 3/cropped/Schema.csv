@@ -1,0 +1,20 @@
+﻿Schema_id,Measure,Description,Unit
+1,Date Time,Date and time of measurement,datetime
+2,SiteID,Site ID for the station,integer
+3,NOx ,Concentration of oxides of nitrogen ,㎍/m3
+4,NO2 ,Concentration of nitrogen dioxide ,㎍/m3
+5,NO,Concentration of nitric oxide ,㎍/m3
+6,PM10,Concentration of particulate matter <10 micron diameter,㎍/m3
+7,O3,Concentration of ozone Concentration of non - volatile particulate matter <10 micron diameter,㎍/m3
+8,Temperature ,Air temperature,°C
+9,ObjectID,Object (?),Integer
+10,ObjectID2,Object (?),Integer
+11,NVPM10,Concentration of non - volatile particulate matter <10 micron diameter,㎍/m3
+12,VPM10,Concentration of volatile particulate matter <10 micron diameter,㎎/m3
+13,NVPM2.5,Concentration of non volatile particulate matter <2.5 micron diameter,㎍/m3
+14,PM2.5,Concentration of particulate matter <2.5 micron diameter,㎍/m3
+15,VPM2.5,Concentration of volatile particulate matter <2.5 micron diameter,㎍/m3
+16,CO,Concentration of carbon monoxide,㎎/m3
+17,RH,Relative Humidity,%
+18,Pressure,Air Pressure,mbar
+19,SO2,Concentration of sulphur dioxide,㎍/m3
